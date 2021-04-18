@@ -828,6 +828,8 @@ section.custom-1 {
 section.dark {
     background: #111;
     color: #ccc;
+    height: 100%!important;
+    overflow: auto!important;
 }
 
 .bgcolor-variation {
